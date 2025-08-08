@@ -1,0 +1,3244 @@
+},{
+  "header": "YouTube",
+  "title": "Watched How I Made A Minecraft Movie",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGgL16-jyaNE",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:55:49.063Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Scooby Doo’s Forgotten Sixth Member",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dDEUq8s4TL6E",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:55:11.271Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Royal Advisor In Every Fantasy",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d8Gvgko120Vc",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:55:08.150Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Life After Bob The Builder",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dcOg0TB4EyMk",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:54:30.936Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Catfishing TV Show",
+  "titleUrl": "https://www.youtube.com/watch?v\u003di60nfTp8-A8",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:54:08.317Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The TRUTH behind Evil Henchmen",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBZKmXOOmLkc",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:54:06.615Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Relationships in The Sims",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d2KVHY7vSkVI",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:54:04.791Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The World of Minecraft Just Got Complicated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003djWI3sfbc1yA",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:54:03.391Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Worst Hunger Games Contestant",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dN1Np1wqFpp8",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:54:01.635Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Real Worst Pirate in Pirates of the Caribbean",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dzNgijfHyYPI",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:53:59.842Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Last Moments of Caesars Reign",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dRz86DO1zQbw",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:53:57.950Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Being an NPC in GTA",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dE0xsChlYgVU",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:53:55.349Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Snape’s Potion Class.",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d5oDJCUUd0UM",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:53:51.691Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Flash Challenge in Ink Master",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d27bhd1Mn8vo",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:53:49.889Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Guy Who Trained the Jedi Younglings",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dDITdT8G-O5Q",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:53:06.355Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Baldur’s Gate III in a Nutshell",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dPEucx-gJAEM",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:52:31.153Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched A Homerphobe Gets Therapy",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJuUFA3ImNAc",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:52:28.121Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When Hogwarts Gets Audited Again… Again",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dE3kH249aRFQ",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:52:18.813Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Escaping A Fire Nation Warship",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dcqyOb-1cmEM",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:51:22.520Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Tenn Graneet - The Death Stars Happiest Employee",
+  "titleUrl": "https://www.youtube.com/watch?v\u003diuaXjcMM7U4",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:50:25.419Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Gringotts Bank Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dLOpOGjNtPr0",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:49:25.458Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Backrooms",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dnn7pGxGj6Ck",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:48:43.031Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When Mordor Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dlqz6SvEL8e8",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:48:31.896Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of Storage Wars",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dUXc6TaVCOvE",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:47:56.703Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Fortnite Chapter 5 Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dIf-9mC1U9B4",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:46:37.359Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When a Magician Attends Hogwarts",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dKw9cAwJqYpw",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:45:38.576Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of Forged in Fire 3",
+  "titleUrl": "https://www.youtube.com/watch?v\u003desxwPOda9JU",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:45:36.713Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Life After Bob The Builder 2",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dXwrKKB7Qtm8",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:45:30.597Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Willy Wonka’s Chocolate Factory Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBN9iS8NTcFo",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:45:21.977Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Sims Pool Party",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dyToEmfmYBGU",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:45:19.273Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Moments Before Disaster",
+  "titleUrl": "https://www.youtube.com/watch?v\u003ddsO3_D89U-c",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:44:27.723Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Moments Before The Fire Nation Attacked",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dpwfhweNHDPg",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:43:46.027Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When You Hit Rock Bottom",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJ7dznd-Vqz0",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:43:40.713Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Silverfish",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dIuAQlLr-8DA",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:43:39.156Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Trojan Horse",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dIxPx5Ck7nms",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:43:33.939Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When Hogwarts Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dHyN__jrig7k",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:42:42.163Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Fight Scene In Supernatural #shorts",
+  "titleUrl": "https://www.youtube.com/watch?v\u003ddo_LqT403yc",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:42:37.899Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When a Minecraft Zombie Meets Steve",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duqcno567JgA",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:42:36.719Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Surviving Batman",
+  "titleUrl": "https://www.youtube.com/watch?v\u003du1jwPWLke5o",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:42:05.119Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of The Button",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGX9-Rgwm_Tg",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:41:16.814Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched My Strange Addiction - Bruh",
+  "titleUrl": "https://www.youtube.com/watch?v\u003diBZSh_tgRNc",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:41:06.816Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Playing RuneScape in 2007",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dsq_RTZFeyHk",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:41:04.033Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Jurassic Park Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAMQoBjiofto",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:40:05.437Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Mushroom Kingdom Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dYjlrW00GAH0",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:39:17.847Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of Lakitu",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTeLaeE8_Mrk",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:38:22.681Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Cities Skylines Gets Audited",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQrEeng0i0Tg",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:37:18.657Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Skeleton",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dj2CtBTN6XX4",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:37:15.580Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When Hogwarts Gets Audited… Again.",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dLFQuf5zQmyU",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:36:07.079Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When You Do Everything in Skyrim",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dvfy1oreowwk",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:35:09.059Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Blaze",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dhBWfoVz-kpU",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:35:07.281Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Gotham City’s Only Real Clown",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dSsz6ZHgH16Y",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:34:27.822Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of Pawn Stars",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAI_gmOOx4CQ",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:33:25.739Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of Ink Master",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGnT1jCrb2yY",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:33:24.737Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of Forged in Fire 2",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dqWNenvPIftk",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:33:21.921Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Ghast",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAlu0vH9DVhc",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:33:20.034Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Subway Surfers: Behind The Trains",
+  "titleUrl": "https://www.youtube.com/watch?v\u003diqTHvIm2lyY",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:33:08.707Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Who Cleans Up Spider-Man\u0027s Webs When He Leaves?",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dFq9zsQDXVNA",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:32:12.667Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Goomba in Super Mario",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d09ie-EYv7z8",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:31:36.335Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Nether Fortress",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d5tNESKJ-m7E",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:31:34.646Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Harsh Reality of Being a Minecraft Villager",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dbb_e7znaZl0",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:30:59.741Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Zombie",
+  "titleUrl": "https://www.youtube.com/watch?v\u003de1ftF6kN4pY",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:30:58.185Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Last Moments On The Titanic",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTlskRpwciVs",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:30:10.503Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Time Batman Got Sued",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dg3GJyPgqisM",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:30:08.415Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Something’s not right in the world of Minecraft…",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dYbICr8gNZtI",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:29:36.224Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When A Minecraft Zombie Stops Respawning",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d7KoM8emreqw",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:29:34.386Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Head to Head in Ink Master",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duIq63etscFY",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:29:32.846Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Strider",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAzUwILLbKGE",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:28:59.667Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Every Episode of Forged in Fire",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d8y27pMiPv7s",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:28:55.868Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Who Cleans Up After The Avengers?",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d4n9sorH7u2w",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:28:07.747Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Piglin",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dDdcsopep2gI",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:28:05.794Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Join Walmart+",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dmwx4klUo1us",
+  "description": "Watched at 2:27 PM",
+  "time": "2024-01-20T20:27:59.849Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Square: IH V0064 JPD 1 EN LH SYC 16比9 6s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dW4r7eBU_1_Y",
+  "description": "Watched at 2:27 PM",
+  "time": "2024-01-20T20:27:54.815Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Meet The Horse Mechanic",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQHt8HNvYSkA",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-20T20:27:36.063Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Workplace Crush",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dP6f7829_Ia0",
+  "subtitles": [{
+    "name": "Drew Talbert",
+    "url": "https://www.youtube.com/channel/UCT_QEGH0myu6lgbE_biQPuw"
+  }],
+  "time": "2024-01-20T20:26:36.635Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Bao didn\u0027t know this fact #vtuber #vtuberen #twitch",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dHYWbWTQfxpM",
+  "subtitles": [{
+    "name": "Bao The Whale",
+    "url": "https://www.youtube.com/channel/UCZQ7nZ8Lc7pslBN0gN1Jg0w"
+  }],
+  "time": "2024-01-20T20:26:28.997Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Who is she?",
+  "titleUrl": "https://www.youtube.com/watch?v\u003drY8c-UuhaKQ",
+  "subtitles": [{
+    "name": "Ceres Fauna Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+  }],
+  "time": "2024-01-20T20:25:31.878Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【KU100 ASMR】 Summer spa ASMR ♡ Water, bubbles, \u0026 massage in 3D",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d_N_m0xqqqMs",
+  "subtitles": [{
+    "name": "Ceres Fauna Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+  }],
+  "time": "2024-01-20T19:52:40.227Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched snl moments that will not leave my head",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dUQaN7vEkkRI",
+  "subtitles": [{
+    "name": "pomfreeze",
+    "url": "https://www.youtube.com/channel/UCQN4JAPDTv5SJWE34skUwoA"
+  }],
+  "time": "2024-01-20T18:10:27.815Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched DoorDash - Generic Slide 1:1",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dwICRIukro00",
+  "description": "Watched at 12:10 PM",
+  "time": "2024-01-20T18:10:18.589Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched I made a compilation of snl clips I like so I could show my friend",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dHowUc8U2Kq4",
+  "subtitles": [{
+    "name": "Mostbogus",
+    "url": "https://www.youtube.com/channel/UCXY2VQAalHH3q6szIzQVDMA"
+  }],
+  "time": "2024-01-20T18:01:21.645Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Jujutsu Family Guy Kaisen「AMV」",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGn5vJCx3b9g",
+  "subtitles": [{
+    "name": "Forp Drorp",
+    "url": "https://www.youtube.com/channel/UC9yI6Po--6EbzooL1kkSFVQ"
+  }],
+  "time": "2024-01-20T18:00:36.641Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Did You Like Baldur\u0027s Gate 3?",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duDwhR6ycQlc",
+  "subtitles": [{
+    "name": "Next Quest Video Games Podcast",
+    "url": "https://www.youtube.com/channel/UCDdhFOXryqkTsAyLWM7eT6Q"
+  }],
+  "time": "2024-01-20T18:00:16.916Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Fortnite You Don\u0027t Know Me Lobby Music 1 Hour Version! (By Hoshikuma Minami)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dkWp5S7DrdfQ",
+  "subtitles": [{
+    "name": "Fortnite Lobby Music",
+    "url": "https://www.youtube.com/channel/UCxXni0uhA-Hb6qhadGwfT0w"
+  }],
+  "time": "2024-01-20T18:00:07.931Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Kugrash trying to be a better dad (and making me cry)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003doafQOw_o6BQ",
+  "subtitles": [{
+    "name": "Mabel Pines",
+    "url": "https://www.youtube.com/channel/UCHNYdJbD62y6l-C5_dBbO_A"
+  }],
+  "time": "2024-01-20T17:59:04.416Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Iroha got mistaken for a child when she was in hotspring alone[Animated Hololive/Eng sub]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dw2-kPCVXjA0",
+  "subtitles": [{
+    "name": "Mochimiko_EN",
+    "url": "https://www.youtube.com/channel/UCek3RW88tX22DDIqfuCgYzg"
+  }],
+  "time": "2024-01-20T17:58:35.740Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Brennan Lee Mulligan\u0027s Point System Rant - Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dpZ9cWquU1ks",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-20T17:57:22.058Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Nobodys Adventure: Chop-Chop-ข",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dlJ0nB6pd1RE",
+  "description": "Watched at 11:57 AM",
+  "time": "2024-01-20T17:57:11.142Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Playing the Aether Mod in 2024",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dsyWoe76LkWA",
+  "subtitles": [{
+    "name": "rekrap2",
+    "url": "https://www.youtube.com/channel/UCvt0HYxX34vUvqu66HLXeUw"
+  }],
+  "time": "2024-01-20T17:51:44.634Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Edge of Tomorrow - Drawfee Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dkU2b-tHNsbY",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-20T17:50:27.609Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 009 1476 AskYourFriends Pets NAM Acq EN UAC 1080x1080 15s IG M2 230",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dnH-OCE4OggY",
+  "description": "Watched at 11:50 AM",
+  "time": "2024-01-20T17:50:21.283Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Kinder Bueno | Double Feature :15",
+  "titleUrl": "https://www.youtube.com/watch?v\u003daeuEVlCj7GM",
+  "description": "Watched at 11:50 AM",
+  "time": "2024-01-20T17:50:05.473Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Brennan Lee Mulligan Hates Snilk - Drawfee Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d8mx2MfFMe9E",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-20T17:47:55.889Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Sonic Underground but it\u0027s Stonetoss",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d1s1mDVofESA",
+  "subtitles": [{
+    "name": "J H",
+    "url": "https://www.youtube.com/channel/UC3PdEie4pobsHFIxzYtpYTg"
+  }],
+  "time": "2024-01-20T17:46:52.193Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Make Minecraft look like the trailer (UPDATED)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBqDE9pioCDM",
+  "subtitles": [{
+    "name": "lowresbones",
+    "url": "https://www.youtube.com/channel/UC6uZpmXBpt8oKZMQeAY3olw"
+  }],
+  "time": "2024-01-20T17:37:23.695Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched SLEEP DEPRIVED LEGO FORTNITE",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dX0Ko_FwWM-M",
+  "subtitles": [{
+    "name": "Sleep Deprived",
+    "url": "https://www.youtube.com/channel/UC5qqBFOKTNAzIyE4g3SvuwQ"
+  }],
+  "time": "2024-01-20T17:22:42.845Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Why Are Celebs Obsessed With This Foundation?",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dISC1tY5PqD8",
+  "description": "Watched at 11:12 AM",
+  "time": "2024-01-20T17:12:31.893Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched DoorDash - Dinner Zoom 16:9",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dPt5tpx87-CA",
+  "description": "Watched at 11:07 AM",
+  "time": "2024-01-20T17:07:35.653Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Native Male Deo Creator Content @jimmygaush",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d7IUt2vPgWSE",
+  "description": "Watched at 11:07 AM",
+  "time": "2024-01-20T17:07:21.586Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Cartnarcs - iDubbbz complains",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAhoDb6pWnfI",
+  "subtitles": [{
+    "name": "iDubbbzTV",
+    "url": "https://www.youtube.com/channel/UC4USoIAL9qcsx5nCZV_QRnA"
+  }],
+  "time": "2024-01-20T17:00:25.355Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Grubhub Kitchen to Table Tacos 16x9 :6s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d610hGVszWVk",
+  "description": "Watched at 11:00 AM",
+  "time": "2024-01-20T17:00:18.675Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Michaels | Big Storage Sale US :06",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d1DIhG0VEVtY",
+  "description": "Watched at 11:00 AM",
+  "time": "2024-01-20T17:00:12.094Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched lining up to slap grant o\u0027brien",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dIUxEkJUxir4",
+  "subtitles": [{
+    "name": "maggie jay",
+    "url": "https://www.youtube.com/channel/UC9Lej5RwizrXs6gmt1joPyQ"
+  }],
+  "time": "2024-01-20T16:53:52.873Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Six Monsters You\u0027ll Have As Roommates",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dDN7C_tE8H_A",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-20T16:53:32.164Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR Roleplay】 Healing ASMR from the Forest Witch ♡",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dayeg9CFlaJA",
+  "subtitles": [{
+    "name": "Ceres Fauna Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+  }],
+  "time": "2024-01-20T09:31:53.340Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dXcWacmCR7CY",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dXcWacmCR7CY",
+  "description": "Watched at 3:31 AM",
+  "time": "2024-01-20T09:31:47.810Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【KU100 ASMR】 Summer spa ASMR ♡ Water, bubbles, \u0026 massage in 3D",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d_N_m0xqqqMs",
+  "subtitles": [{
+    "name": "Ceres Fauna Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+  }],
+  "time": "2024-01-20T03:28:40.657Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】Relaxing Maid Cafe!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dht2mxtYtZlQ",
+  "subtitles": [{
+    "name": "Mori Calliope Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+  }],
+  "time": "2024-01-20T03:27:28.136Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】Chill Time With Drinks At Bar Calli!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003disY8x04Tu8A",
+  "subtitles": [{
+    "name": "Mori Calliope Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+  }],
+  "time": "2024-01-20T03:27:21.439Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dPL2iruXhjeM",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dPL2iruXhjeM",
+  "time": "2024-01-20T03:27:08.958Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched science diagrams that look like shitposts but with toby fox music",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dbgtruBRZKbM",
+  "subtitles": [{
+    "name": "Meme Lord",
+    "url": "https://www.youtube.com/channel/UC1IMjyU6Obab2gGDxJdorlQ"
+  }],
+  "time": "2024-01-20T03:04:45.124Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Fortnite Zero Build Gameplay Trailer - No Build Battle Royale",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBIFM5e4OFfI",
+  "subtitles": [{
+    "name": "Fortnite",
+    "url": "https://www.youtube.com/channel/UClG8odDC8TS6Zpqk9CGVQiQ"
+  }],
+  "time": "2024-01-20T03:03:13.961Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Fortnite | Coral Chorus Lobby Music [10 HOURS]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dxsu6QLTa4Uo",
+  "subtitles": [{
+    "name": "Le Vieux Père",
+    "url": "https://www.youtube.com/channel/UCiDE920umGAv596CVjJpsnA"
+  }],
+  "time": "2024-01-20T03:02:08Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Ghost Politics - Right Foot Creep (Griddy)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d2X6RwIg0Pok",
+  "subtitles": [{
+    "name": "GTRonefresh",
+    "url": "https://www.youtube.com/channel/UCmtgzUBHXaOhdYXzi8SNpDA"
+  }],
+  "time": "2024-01-20T03:01:48.783Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched How did Mechamaru Communicate After Passing On? | Jujutsu Kaisen",
+  "titleUrl": "https://www.youtube.com/watch?v\u003deC6f1rGfnSQ",
+  "subtitles": [{
+    "name": "manganimist",
+    "url": "https://www.youtube.com/channel/UCSKTREAntaHyvl11lplj6gQ"
+  }],
+  "time": "2024-01-20T02:13:10.034Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Stuffed Crust - Cheese In Every Bite",
+  "titleUrl": "https://www.youtube.com/watch?v\u003doTYi1wUxhLo",
+  "description": "Watched at 8:13 PM\nWatched at 12:32 PM",
+  "time": "2024-01-20T02:13:00.531Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】CAT SOUNDS! feat. Tutu and Ghostcat",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dW2-LNLnH-Ps",
+  "subtitles": [{
+    "name": "Mori Calliope Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+  }],
+  "time": "2024-01-19T23:24:46.429Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】Sleepy Rambles and Good Vibes!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dhRCJVqA-ne8",
+  "subtitles": [{
+    "name": "Mori Calliope Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+  }],
+  "time": "2024-01-19T22:32:35.655Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Brennan Destroys Elon Musk",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dnn8HxLy0BHA",
+  "subtitles": [{
+    "name": "The Pixelists",
+    "url": "https://www.youtube.com/channel/UCN6i9jKhzePcpNYvong9iMA"
+  }],
+  "time": "2024-01-19T19:58:37.283Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched the BEST EVER nat 20",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dzYxmMR67knU",
+  "subtitles": [{
+    "name": "romickey",
+    "url": "https://www.youtube.com/channel/UCo4s-0ikPwf0gMt-b-YM-HQ"
+  }],
+  "time": "2024-01-19T19:58:19.741Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Fern and Stark play Fortnite (Frieren meme)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dFegn5wl4Kgs",
+  "subtitles": [{
+    "name": "nomi",
+    "url": "https://www.youtube.com/channel/UCpqOFJ-prqHn0sRkklCyBhg"
+  }],
+  "time": "2024-01-19T19:57:46.592Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched I Can\u0027t Decide What My Last Meal Should Be",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d-7KAR4TpwFw",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-19T19:56:28.711Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched KICK BACK pero es versión SALSA (Full)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d5mfDzBeeBSI",
+  "subtitles": [{
+    "name": "Tricker",
+    "url": "https://www.youtube.com/channel/UCe1GhX-KqmGFcWkFgkyMwRw"
+  }],
+  "time": "2024-01-19T19:56:02.017Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Portal radio most compressed version",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQLyhfakB-QY",
+  "subtitles": [{
+    "name": "CinnamonRolls",
+    "url": "https://www.youtube.com/channel/UCLhZXZoeNww78jif8PHoOmw"
+  }],
+  "time": "2024-01-19T19:55:46.619Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Square: IH V0064 JPD 1 EN LH SYC 16比9 6s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dW4r7eBU_1_Y",
+  "description": "Watched at 1:55 PM",
+  "time": "2024-01-19T19:55:39.666Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】pop rocks, bubble wrap, chill vibes",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d63CCwCPC2Mo",
+  "subtitles": [{
+    "name": "Mori Calliope Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+  }],
+  "time": "2024-01-19T19:18:18.429Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Wirtz pumps are really clever",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dwCxRHueX6jQ",
+  "subtitles": [{
+    "name": "Steve Mould",
+    "url": "https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A"
+  }],
+  "time": "2024-01-19T19:16:44.524Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Isaiah Swagger 06s | Old Spice",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d-4oyUvtJy6U",
+  "description": "Watched at 1:16 PM",
+  "time": "2024-01-19T19:16:37.499Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Tide | Never Enough",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d-UwqzY2ZFMg",
+  "description": "Watched at 1:16 PM",
+  "time": "2024-01-19T19:16:21.820Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched You Weren’t Supposed To See that Photo | Hardly Working",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dtqh5DS2ccuo",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-19T19:12:35.850Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched two definitely 100% heterosexual hobbits — Make Some Noise: Cut For Time",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTcXoB8_Te1A",
+  "subtitles": [{
+    "name": "dontwatchthese",
+    "url": "https://www.youtube.com/channel/UCJZB-y6zH_EZTff6lV5-w2Q"
+  }],
+  "time": "2024-01-19T18:46:23.550Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched It\u0027s Not Gojo\u0027s Job to Save the Day | Jujutsu Kaisen",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJK-07mJIT4o",
+  "subtitles": [{
+    "name": "manganimist",
+    "url": "https://www.youtube.com/channel/UCSKTREAntaHyvl11lplj6gQ"
+  }],
+  "time": "2024-01-19T18:32:17.083Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Something’s not right in the world of Minecraft…",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dYbICr8gNZtI",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-19T18:32:09.827Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Life of a Minecraft Zombie",
+  "titleUrl": "https://www.youtube.com/watch?v\u003de1ftF6kN4pY",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-19T18:31:42.155Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dMSG7Zw9vVrU",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dMSG7Zw9vVrU",
+  "description": "Watched at 12:27 PM",
+  "time": "2024-01-19T18:27:22.950Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Mass marketed haircare doesn\u0027t work for everyone | Prose",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dj9nKiFkQHTQ",
+  "description": "Watched at 12:22 PM",
+  "time": "2024-01-19T18:22:53.331Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched YM08A EN",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d2jfplSEnS1I",
+  "description": "Watched at 12:12 PM",
+  "time": "2024-01-19T18:12:49.264Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Minecraft From The Mobs Perspective | A Minecraft Movie",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dU_1XqRtN7PY",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-19T18:11:43.008Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Improve Your Writing Clarity With Grammarly\u0027s Generative AI",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d6ARJWS-sK-U",
+  "description": "Watched at 12:08 PM",
+  "time": "2024-01-19T18:08:44.863Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Marvel Studios\u0027 What If...? | Original series | Season 2 Now Streaming on Disney+",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d8FTxJ55Tkg4",
+  "description": "Watched at 12:02 PM",
+  "time": "2024-01-19T18:02:00.667Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched How I Made A Minecraft Movie",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGgL16-jyaNE",
+  "subtitles": [{
+    "name": "Jackson Field",
+    "url": "https://www.youtube.com/channel/UCndV9QI4anHHUorIXGW3BIg"
+  }],
+  "time": "2024-01-19T17:56:39.111Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Zaxby\u0027s | Zensation Zalad | Salad to Zalad :15",
+  "titleUrl": "https://www.youtube.com/watch?v\u003deZs_GtS3PKw",
+  "description": "Watched at 11:56 AM",
+  "time": "2024-01-19T17:56:35.264Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched TVアニメ「俺だけレベルアップな件」ノンクレジットOPムービー｜SawanoHiroyuki[nZk]:TOMORROW X TOGETHER「LEveL」",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d9KBl_UurkEc",
+  "subtitles": [{
+    "name": "アニプレックス チャンネル",
+    "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA"
+  }],
+  "time": "2024-01-19T17:54:32.581Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Significant Figures - A Fast Review!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dl2yuDvwYq5g",
+  "subtitles": [{
+    "name": "The Organic Chemistry Tutor",
+    "url": "https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA"
+  }],
+  "time": "2024-01-19T17:49:51.885Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched When the Job is Done | Harbor Freight",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d25TXiVi9BPU",
+  "description": "Watched at 11:49 AM",
+  "time": "2024-01-19T17:49:36.593Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 5 Food Innovations We Desperately Need",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dsunrqnbXPec",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-19T17:00:20.254Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Birds Of A Feather Flex Together.",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d6_u9zXEsBjM",
+  "description": "Watched at 11:00 AM",
+  "time": "2024-01-19T17:00:16.612Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched ≪#Council2ndAnniversary≫ Off Collab Baking Challenge + HUGE Announcements! w/ Councilrys",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQrfFDaG78so",
+  "subtitles": [{
+    "name": "Hakos Baelz Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ"
+  }],
+  "time": "2024-01-19T16:52:41.511Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 5 Tips on Cooking for One | CH Shorts",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d3eY394uqk9Q",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-19T16:52:07.675Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Marvel Studios\u0027 Black Panther: Wakanda Forever | Now streaming on Disney+",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dHQa5h2sgpoA",
+  "description": "Watched at 10:52 AM",
+  "time": "2024-01-19T16:52:01.673Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【寝落ち用ASMR】（極上の3時間）やさしい囁きと耳かきで寝かしつけ 💤（耳マッサージ）/ Ear cleaning , Whispering",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dSqQkoeXIsug",
+  "subtitles": [{
+    "name": "高倉むきASMR―Muki Takakura―",
+    "url": "https://www.youtube.com/channel/UCEYU-OEI9FnbeC5hna_cbhw"
+  }],
+  "time": "2024-01-19T09:13:46.406Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched ADV2_SHOPPING:8231946216241111392",
+  "titleUrl": "https://www.youtube.com/watch?v\u003ds9lxtKvDK3M",
+  "description": "Watched at 3:13 AM",
+  "time": "2024-01-19T09:13:20.184Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched IH V0064 JPD 1 EN LH SYC 16比9 6s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d_OutwZizul8",
+  "description": "Watched at 2:12 AM",
+  "time": "2024-01-19T08:12:29.813Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Charlie finally gets his turn",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d6A884qztNqQ",
+  "subtitles": [{
+    "name": "Chuckle Sandwich",
+    "url": "https://www.youtube.com/channel/UCp4csaOD64mSzPxbfuzJcuA"
+  }],
+  "time": "2024-01-19T07:36:13.750Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Fortnite Age Restricted Griddy (Official Audio)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dpFrt3Q7HIJM",
+  "subtitles": [{
+    "name": "BeansBtw",
+    "url": "https://www.youtube.com/channel/UCA0yQCIzKki1Cl3bLZNoneA"
+  }],
+  "time": "2024-01-19T07:35:58.440Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched “Do we run duos together because we suck at the game or do we suck at the game because we run duos”",
+  "titleUrl": "https://www.youtube.com/watch?v\u003df8j5ZfkQBPs",
+  "subtitles": [{
+    "name": "Tomfoolery",
+    "url": "https://www.youtube.com/channel/UCUzkaqGNqWc8SIY7p4aLPig"
+  }],
+  "time": "2024-01-19T06:53:24.729Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Blitz, now available for Fortnite",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgRFY6gIUYWE",
+  "description": "Watched at 10:17 PM",
+  "time": "2024-01-19T04:17:30.901Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Dawn Superior Value :06",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBTcM7wh_t84",
+  "description": "Watched at 7:40 PM",
+  "time": "2024-01-19T01:40:52.749Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Pampers Cruisers 360 - Upside Down - 06s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dR94pfM1wcac",
+  "description": "Watched at 7:40 PM",
+  "time": "2024-01-19T01:40:45.881Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Michael Is Threatened By A Foul-Mouthed British Man - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dWMtM0vImeEg",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T21:26:28.654Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched \"Is that Ron Howard? I hate that guy\" - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dNfgHeBWBJcA",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T21:21:06.424Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Stan Sitwell Gets Gob A Gift - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgBNJXWLFf00",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T21:08:51.734Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched \"Help Me Michael, I Think My Husband Might Be A...\"  - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dCwZcKTNNN1E",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T21:01:54.349Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Lucille Runs Over Tobias - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d3OWkcyI6Ukc",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T20:51:05.866Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Lucille Looks Like A Monster, Gob \u0026 Michael Have A Banana Off - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTTLfRhXVtKk",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T20:26:27.578Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Celebrating 40 Years of Making Memories One Weekend at a Time!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgCfmdM5dy9I",
+  "description": "Watched at 2:19 PM",
+  "time": "2024-01-18T20:19:12.388Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Gob And Buster Meet Tony Wonder - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dLavGJBAGhNk",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T20:12:44.824Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Gob Doesn\u0027t Know His WIFE\u0027S NAME - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dWX5x7jh-KGs",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T20:08:36.962Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Michael And Maggie FINALLY Call It Quits - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dVo8tCgCmN5Y",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T20:02:14.256Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Maggie Isn\u0027t Pregnant? - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dWUEjCcV_190",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T19:55:11.491Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched \"It\u0027s Help Your Dad Follow His Dream Day\" - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003doUBMFQSbq78",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T19:51:38.790Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched \"Who\u0027d like a banger in the mouth?\" - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d_8ZA3VReWNU",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T19:48:44.992Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Lysol LAS ETT SCS CTA NON NEW 06 USH YOUTUBE",
+  "titleUrl": "https://www.youtube.com/watch?v\u003djPTCYMRWyEM",
+  "description": "Watched at 1:48 PM",
+  "time": "2024-01-18T19:48:38.715Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Michael And Buster Stop Lucille \u0026 George Michael At Motherboy XXX",
+  "titleUrl": "https://www.youtube.com/watch?v\u003du0XMZbDxuw0",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T17:37:57.704Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Tobias Works At SWALLOWS - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d1D-U5Bu5ekU",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T17:33:31.064Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched [ARCHIVE] 3 Months of Unlimited for $15/mo. | Mint Mobile New Customer Offer",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTUx6Pdmp0b8",
+  "description": "Watched at 11:33 AM",
+  "time": "2024-01-18T17:33:23.263Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Tobias Takes Over The Bluth Company - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgHG-Wb5F-dc",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-18T17:28:19.030Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched ONE PIECE OP24 PAINT I Don\u0027t Like Mondays. [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dEqjGifwWd18",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:18:25.896Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched SPY×FAMILY OP ミックスナッツ Official髭男dism Mixed Nuts [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dzavZPKFrNmU",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:17:51.148Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched サマータイムレンダ OP 星が泳ぐ マカロニえんぴつ Summer Time Rendering [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dtU9tBXMMTG4",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:17:22.180Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched SPY×FAMILY 酔っ払いヨル Drunk Yor [踊り] 通常の動画 Ver.",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJE4XI96U14w",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:17:00.476Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Square: 4520171456   Robokiller   Bumper Ads Launch   Concept #2 Call Screening FINAL MASTER",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d_VK610uZ8Nw",
+  "description": "Watched at 11:16 AM",
+  "time": "2024-01-18T17:16:53.578Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Cyberpunk: Edgerunners OST I Really Want to Stay at Your House サイバーパンク エッジランナーズ [piano]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dvsmqoDwelz4",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:15:44.877Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched チェンソーマン ED4 錠剤 TV-SIZE TOOBOE Chainsaw Man [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dh_ulGNTr5O8",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:15:27.269Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Happy Valentine\u0027s Day! (*´∀`)~♥",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dmGO_XGMLDks",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:15:07.592Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 台北のhololive cafe に行きました！！ I went to hololive cafe in Taipei!! (Welcome to Taiwan Calli~~ 💀💀💀)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d43r_E356UlQ",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:14:52.542Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched POP UP PARADE 初音ミク ヴァンパイア Ver. L 開封！ Unbox POP UP PARADE Hatsune Miku: The Vampire Ver. L!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d_R3GDQJCCT4",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:14:49.074Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched ゼルダの伝説 ティアーズ オブ ザ キングダム Collector’s Edition 開封！ Tears of the Kingdom Collector\u0027s Edition Unboxing!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duQeoT6uwEMM",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:14:28.370Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched ゆこぴ 強風オールバック Kyoufuu All Back [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dpVbDm6ecfww",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:14:22.408Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 呪術廻戦 第2期 4曲メドレー Jujutsu Kaisen Season 2 Four Songs Medley [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dSOe3OSR6Fik",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:13:53.158Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 進撃の巨人The Final Season リヴァイ Birthday 1/7スケールフィギュア 開封！Attack on Titan Levi Birthday Figure Unboxing!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dEkNT1QXA-XE",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:13:39.016Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched ぼっち・ざ・ろっく！ OP 青春コンプレックス 結束バンド Seishun Complex Kessoku Band [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dsYMHZqGRUjM",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:12:52.078Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched bex generic video mtt xxx evergreen mtt price tracking us en q1 programmatic new vizID 23 005 6s 1x1",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d6_7vLvo0wSA",
+  "description": "Watched at 11:12 AM",
+  "time": "2024-01-18T17:12:45.148Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Vertical: IH V0065 Seele 1 EN LH SYC 16比9 6s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dqsTok1mnuaE",
+  "description": "Watched at 11:12 AM",
+  "time": "2024-01-18T17:12:38.482Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【推しの子】 OP アイドル TV-SIZE Oshi no Ko Idol [ピアノ]",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duqjqGgfwpwc",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:11:58.090Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched POP UP PARADE 超絶最かわてんしちゃん 開封！ Unbox POP UP PARADE OMGkawaiiAngel!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d15C5az_NqwU",
+  "subtitles": [{
+    "name": "Pan Piano",
+    "url": "https://www.youtube.com/channel/UCI7ktPB6toqucpkkCiolwLg"
+  }],
+  "time": "2024-01-18T17:11:37.809Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Drunkest Alpharad\u0027s Ever Been",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d16dKUoiERmQ",
+  "subtitles": [{
+    "name": "Alpharad LIVE",
+    "url": "https://www.youtube.com/channel/UC5RpbFDGW-pgOaRMDUYpBFw"
+  }],
+  "time": "2024-01-18T17:09:12.341Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Start Playing Guitar Today | Yousician",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dj6zIQ-0WHDs",
+  "description": "Watched at 11:09 AM\nWatched at 1:12 AM",
+  "time": "2024-01-18T17:09:04.673Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched brennan lee mulligan and izzy roland being just the best ever actually for 17 minutes",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAxz1KKDDGQU",
+  "subtitles": [{
+    "name": "loser",
+    "url": "https://www.youtube.com/channel/UCc9oP2Rpo-cqlub9g2H1huA"
+  }],
+  "time": "2024-01-18T17:06:48.740Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Brennan Lee Mulligan Betrays His Morals",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dYyDqI4Vo0f8",
+  "subtitles": [{
+    "name": "two hundred and twenty five adult babies",
+    "url": "https://www.youtube.com/channel/UCfDvPDlSrg1KfsHZO2aDx5g"
+  }],
+  "time": "2024-01-18T17:05:45.114Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 009 1476 AskYourFriends Pets NAM Acq EN UAC 1080x1620 15s IG M2 230",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dtc9h-lvDwwQ",
+  "description": "Watched at 11:05 AM",
+  "time": "2024-01-18T17:05:38.396Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Spicy Deluxe Sandwich - Juicy. Crunchy. Spicy.",
+  "titleUrl": "https://www.youtube.com/watch?v\u003djpzy4N_8UOY",
+  "description": "Watched at 3:56 AM",
+  "time": "2024-01-18T09:56:51.728Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】pop rocks, bubble wrap, chill vibes",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d63CCwCPC2Mo",
+  "subtitles": [{
+    "name": "Mori Calliope Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+  }],
+  "time": "2024-01-18T09:24:14.891Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR Roleplay】 Healing ASMR from the Forest Witch ♡",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dayeg9CFlaJA",
+  "subtitles": [{
+    "name": "Ceres Fauna Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+  }],
+  "time": "2024-01-18T08:10:51.272Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR】 Whispering to you ♡ comforting ASMR for sleep \u0026 relaxation ♡ rain ambience",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dhC7RIVZ6W38",
+  "subtitles": [{
+    "name": "Ceres Fauna Ch. hololive-EN",
+    "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+  }],
+  "time": "2024-01-18T08:10:37.420Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched INCOMING - PHASE JP",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAdgAuIMCHzw",
+  "description": "Watched at 2:10 AM",
+  "time": "2024-01-18T08:10:30.641Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 【ASMR PRACTICE】 Finance soft-whispering ♥ 【NIJISANJI EN | Finana Ryugu】",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d-gvFtWq8CAY",
+  "subtitles": [{
+    "name": "Finana Ryugu 【NIJISANJI EN】",
+    "url": "https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw"
+  }],
+  "time": "2024-01-18T07:34:31.512Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Imagine A Crab - Drawfee Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dtt4dXsyxgQc",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-18T07:31:56.410Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched #WearYour Shine",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dtle0-KHslCg",
+  "description": "Watched at 1:31 AM",
+  "time": "2024-01-18T07:31:39.582Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched eCom Gen PMAX Sep23 NY 16x9 Mixed",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTfJHfOThi-Q",
+  "description": "Watched at 1:31 AM",
+  "time": "2024-01-18T07:31:18.743Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Nathan Plays Digimon Smash or Pass - Drawfee Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTpPcQ6yW6MA",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-18T07:29:03.028Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dozQo4QHuElI",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dozQo4QHuElI",
+  "time": "2024-01-18T07:27:06.393Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dAubpZahmZa8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAubpZahmZa8",
+  "description": "Watched at 1:26 AM",
+  "time": "2024-01-18T07:26:51.752Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Brennan and Ross Accent-Off - Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d9E2Tn4VwmQc",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-18T07:24:58.772Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dJvre8vfWFp4",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJvre8vfWFp4",
+  "time": "2024-01-18T07:22:45.770Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Brainstorm With Grammarly | Accelerate Your Writing Process",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duaLc5pE11DI",
+  "description": "Watched at 1:22 AM",
+  "time": "2024-01-18T07:22:28.964Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dQw3o-F7zPtQ",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQw3o-F7zPtQ",
+  "time": "2024-01-18T07:20:09.282Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dXG_F2aWrGUk",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dXG_F2aWrGUk",
+  "time": "2024-01-18T07:17:29.977Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d0wA6_hBP9rc",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d0wA6_hBP9rc",
+  "description": "Watched at 1:17 AM",
+  "time": "2024-01-18T07:17:22.036Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003daeuEVlCj7GM",
+  "titleUrl": "https://www.youtube.com/watch?v\u003daeuEVlCj7GM",
+  "description": "Watched at 1:17 AM",
+  "time": "2024-01-18T07:17:06.444Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Brennan Lee Mulligan Teaches The Birds and The Bees - Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dbW3Re2vOPcA",
+  "subtitles": [{
+    "name": "DeepBlueInk",
+    "url": "https://www.youtube.com/channel/UCNxrB1_wm8FCy_-VFB91UmQ"
+  }],
+  "time": "2024-01-18T07:15:02.576Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dGhsBcF18MT0",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGhsBcF18MT0",
+  "time": "2024-01-18T07:14:03.702Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Kick Back - Kenshi Yonezu (Bass Cover w/ Tabs)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dLUhZccuZynE",
+  "subtitles": [{
+    "name": "Anime Bass Tabs",
+    "url": "https://www.youtube.com/channel/UCVSrew8EHLfSqUt2IL_TDdQ"
+  }],
+  "time": "2024-01-18T07:12:46.690Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Upchurch UP101122 3000 Upgrade 1",
+  "titleUrl": "https://www.youtube.com/watch?v\u003daTY3IN5tz1k",
+  "description": "Watched at 1:12 AM",
+  "time": "2024-01-18T07:12:35.732Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dRFILKNnJbyA",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dRFILKNnJbyA",
+  "time": "2024-01-18T07:08:44.400Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched CollegeHumor\u0027s Favorite Guest Stars",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dDFUYQgZwRb4",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T07:06:04.912Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Guy Who\u0027s a Total Rap Snob | Hardly Working",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d32_kC-EioI0",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T07:06:01.424Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dNQ1GQlcgX_s",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dNQ1GQlcgX_s",
+  "time": "2024-01-18T07:04:57.532Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched noise boys moments that really change my game",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dXyshJzHwDdQ",
+  "subtitles": [{
+    "name": "yupekosi ",
+    "url": "https://www.youtube.com/channel/UCvXvzH5kY4NUL6mGRTPsqlA"
+  }],
+  "time": "2024-01-18T04:15:31.653Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched sam says but its just lou losing points",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dzxWAwZg4Omk",
+  "subtitles": [{
+    "name": "Jane Bird",
+    "url": "https://www.youtube.com/channel/UC6y3q-UY0Cq1aD_o4j0Le_w"
+  }],
+  "time": "2024-01-18T04:11:38.687Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Um Actually but its just Trapp Vs Brennan just \u0027cause",
+  "titleUrl": "https://www.youtube.com/watch?v\u003djBCJH4QLVbw",
+  "subtitles": [{
+    "name": "MistbornThief",
+    "url": "https://www.youtube.com/channel/UCf9kKe31HLkB23tU0YX9xxA"
+  }],
+  "time": "2024-01-18T04:07:35.371Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Zac just breaking Brennan | The Ravening War | Dimension 20",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d5lC19L1-YXM",
+  "subtitles": [{
+    "name": "addicteduser",
+    "url": "https://www.youtube.com/channel/UCoemAb3v-ye-mzZA9x1pKsw"
+  }],
+  "time": "2024-01-18T03:56:15.952Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dx41lyAEvBiY",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dx41lyAEvBiY",
+  "time": "2024-01-18T03:47:04.457Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dyDDDJC3AYtA",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dyDDDJC3AYtA",
+  "time": "2024-01-18T03:44:43.678Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched JUUL CEO: No More Advertising to Kids",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d2POq39ce_5I",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T03:38:10.435Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dAR-jMu0f_wc",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAR-jMu0f_wc",
+  "description": "Watched at 9:38 PM",
+  "time": "2024-01-18T03:38:03.502Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched A Message From Your Favorite CEOs.",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dLFB-ZhKAPPw",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T03:23:03.008Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dZk2nRIa2R9g",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dZk2nRIa2R9g",
+  "time": "2024-01-18T03:22:53.683Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched The Lords of the Wing Spill Their Secrets (Dimension 20 Animated)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003duJ6PkAJlMHI",
+  "subtitles": [{
+    "name": "Dimension 20",
+    "url": "https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A"
+  }],
+  "time": "2024-01-18T03:20:28.877Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dydy-16qo5FY",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dydy-16qo5FY",
+  "time": "2024-01-18T03:18:17.082Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d1OH5Kz3uXh8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d1OH5Kz3uXh8",
+  "time": "2024-01-18T03:15:34.149Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dzaRqgjXMdFo",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dzaRqgjXMdFo",
+  "description": "Watched at 9:15 PM",
+  "time": "2024-01-18T03:15:21.715Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched This Monster Has No Phone Case | Hardly Working",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dq4yIWg_LElc",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T03:12:03.131Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Your Phone Is Dying | CH Shorts",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dphe-qhVc1Uc",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T03:05:44.815Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Your Contacts List is a Mess | CH Shorts",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d-ukWuWPyRLo",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T03:02:04.899Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched No, You Weren’t “Born in the Wrong Decade”",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dhc6VP7Qp-Y8",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T03:01:59.128Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched more OneyPlays moments that rock my socks off",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dLsFEAFTeGWs",
+  "subtitles": [{
+    "name": "billywentz",
+    "url": "https://www.youtube.com/channel/UCU1FUs02Knsg_1Cf0baimpw"
+  }],
+  "time": "2024-01-18T02:59:33.455Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d0wA6_hBP9rc",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d0wA6_hBP9rc",
+  "description": "Watched at 8:58 PM",
+  "time": "2024-01-18T02:58:40.394Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched KEDP_2312_ECOMM.ECOMM.SEASN.NEWYEARSYOUTUBE.WF5684728_KRO_15_XXX",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dNXUpa9QWGfY",
+  "description": "Watched at 8:58 PM",
+  "time": "2024-01-18T02:58:18.466Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Everything Wrong with Trendy Restaurants",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJvsWibR_nsk",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T02:51:48.888Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dFIRj_4ZF02U",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dFIRj_4ZF02U",
+  "description": "Watched at 8:51 PM",
+  "time": "2024-01-18T02:51:41.202Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dPiUK9fRboD0",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dPiUK9fRboD0",
+  "time": "2024-01-18T02:49:08.195Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched How To Create a Sexy Rat (Fantasy High Clip)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dOFMdwpGdY64",
+  "subtitles": [{
+    "name": "Dimension 20",
+    "url": "https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A"
+  }],
+  "time": "2024-01-18T02:44:36.959Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Someone Is Leaking CollegeHumor\u0027s Secrets",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dU17yQrEAmEk",
+  "subtitles": [{
+    "name": "Dropout",
+    "url": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+  }],
+  "time": "2024-01-18T02:39:58.664Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dS1-IOhhT7pA",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dS1-IOhhT7pA",
+  "description": "Watched at 8:37 PM",
+  "time": "2024-01-18T02:37:29.952Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d0Bl4vbbPZgM",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d0Bl4vbbPZgM",
+  "time": "2024-01-18T02:33:43.921Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003diLKyrryxs04",
+  "titleUrl": "https://www.youtube.com/watch?v\u003diLKyrryxs04",
+  "time": "2024-01-18T02:30:36.647Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dwViXFK4vxb8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dwViXFK4vxb8",
+  "time": "2024-01-18T02:27:20.928Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dEULrddZFaaY",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dEULrddZFaaY",
+  "time": "2024-01-18T02:25:19.903Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dJ5mAtUlQzfk",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dJ5mAtUlQzfk",
+  "time": "2024-01-18T02:22:51.494Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched One Piece Opening 22 | OVER THE TOP",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dPwVT67T5Xt4",
+  "subtitles": [{
+    "name": "Crunchyroll",
+    "url": "https://www.youtube.com/channel/UC6pGDc4bFGD1_36IKv3FnYg"
+  }],
+  "time": "2024-01-18T01:50:57.078Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dt7xHamn5inQ",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dt7xHamn5inQ",
+  "time": "2024-01-18T01:48:26.048Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dOo52vQyAR6w",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dOo52vQyAR6w",
+  "time": "2024-01-18T01:45:53.233Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched TVアニメ「ぼっち・ざ・ろっく！」エンディング映像/「なにが悪い」#結束バンド",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d3ijkvUYwJhU",
+  "subtitles": [{
+    "name": "アニプレックス チャンネル",
+    "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA"
+  }],
+  "time": "2024-01-18T01:44:21.098Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dQoGM9hCxr4k",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQoGM9hCxr4k",
+  "time": "2024-01-18T01:38:56.968Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 『チェンソーマン』ノンクレジットオープニング / CHAINSAW MAN  Opening│米津玄師 「KICK BACK」",
+  "titleUrl": "https://www.youtube.com/watch?v\u003ddFlDRhvM4L0",
+  "subtitles": [{
+    "name": "MAPPA CHANNEL",
+    "url": "https://www.youtube.com/channel/UCjfAEJZdfbIjVHdo5yODfyQ"
+  }],
+  "time": "2024-01-18T01:37:35.194Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d3YZ1wm2XBTE",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d3YZ1wm2XBTE",
+  "description": "Watched at 7:37 PM",
+  "time": "2024-01-18T01:37:24.111Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 『SPY×FAMILY』Season 2 オープニング主題歌Ado「クラクラ」アニメ映像(ノンクレジット) ／2023.10.07 23:00～ON AIR",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgz--GkzpAf8",
+  "subtitles": [{
+    "name": "TOHO animation チャンネル",
+    "url": "https://www.youtube.com/channel/UC14Yc2Qv92DMuyNRlHvpo2Q"
+  }],
+  "time": "2024-01-18T01:32:58.506Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 『SPY×FAMILY』第2クールオープニング主題歌アニメ映像(ノンクレジット)／“SPY x FAMILY” part2  Opening theme song animation",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dYOIJOJsUkUg",
+  "subtitles": [{
+    "name": "TOHO animation チャンネル",
+    "url": "https://www.youtube.com/channel/UC14Yc2Qv92DMuyNRlHvpo2Q"
+  }],
+  "time": "2024-01-18T01:31:24.654Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dgcgKUcJKxIs",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgcgKUcJKxIs",
+  "time": "2024-01-18T01:29:52.159Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched It\u0027s an accessory",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dnyOW_7PBqGU",
+  "subtitles": [{
+    "name": "Zangeiti",
+    "url": "https://www.youtube.com/channel/UCwoLevcO2IMGE77tfZXFxUw"
+  }],
+  "time": "2024-01-18T01:29:23.028Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched WHY WON\u0027T YOU WATCH FAMILY GUY?",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dU4av1CRaF6w",
+  "subtitles": [{
+    "name": "Peternity",
+    "url": "https://www.youtube.com/channel/UCTMGgU2G_Zz2eGA5tPFJrPg"
+  }],
+  "time": "2024-01-18T01:27:07.064Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d73XUwwl3M60",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d73XUwwl3M60",
+  "time": "2024-01-18T01:26:24.706Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Gilear has beans on his shirt - Fantasy High | D20 Animated",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dVy42T0fsgLY",
+  "subtitles": [{
+    "name": "Stephan Krosecz",
+    "url": "https://www.youtube.com/channel/UCH8A0tBodub5ZNg8BbDCecA"
+  }],
+  "time": "2024-01-18T01:26:15.440Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dY55XqGvDKnU",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dY55XqGvDKnU",
+  "time": "2024-01-18T01:25:57.406Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Operation Slippery Puppet ft. Plinth | 10000 subscribers special",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dRuNjL00H1YA",
+  "subtitles": [{
+    "name": "Rylee G",
+    "url": "https://www.youtube.com/channel/UComHoAw7ALNPIEkoArGU7QA"
+  }],
+  "time": "2024-01-18T01:25:37.276Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched WHAT WEIRD HOMEBREW BS IS THIS?!?!!!",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dusELOP9B7ho",
+  "subtitles": [{
+    "name": "soda pop",
+    "url": "https://www.youtube.com/channel/UC7u_j36rEv8zMGaC7m4bfag"
+  }],
+  "time": "2024-01-18T01:24:05.413Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched [AfroNinja360 Reuploaded] The Chris-Chan Show (Animated Intro)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dRDBH3TfxXp8",
+  "subtitles": [{
+    "name": "ReuploadChannel",
+    "url": "https://www.youtube.com/channel/UCXKJvLHeJG7gJB9ixpSOucw"
+  }],
+  "time": "2024-01-18T01:21:50.610Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dlOOv2xaNurE",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dlOOv2xaNurE",
+  "time": "2024-01-18T01:21:25.773Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dAnwXb2amJ2A",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAnwXb2amJ2A",
+  "time": "2024-01-18T01:20:59.550Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dTcEQXypPEic",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTcEQXypPEic",
+  "time": "2024-01-18T01:19:50.862Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d6OQem1dcdsk",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d6OQem1dcdsk",
+  "description": "Watched at 7:19 PM",
+  "time": "2024-01-18T01:19:43.848Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched DONALD TRUMP WEEZER",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dcFJ_WmRuvyI",
+  "subtitles": [{
+    "name": "Goose",
+    "url": "https://www.youtube.com/channel/UCMdTHVe3dFdFcraep64WgSg"
+  }],
+  "time": "2024-01-18T01:19:03.134Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dBRv6v2909RQ",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBRv6v2909RQ",
+  "time": "2024-01-18T01:18:42.224Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dHo9M-q_kcn8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dHo9M-q_kcn8",
+  "time": "2024-01-18T01:18:21.719Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003diTgmapRTNMQ",
+  "titleUrl": "https://www.youtube.com/watch?v\u003diTgmapRTNMQ",
+  "time": "2024-01-18T01:17:36.435Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched buddy holly but the vocals are delayed by 4 seconds",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dgeSzZ4c8Udw",
+  "subtitles": [{
+    "name": "the trash man",
+    "url": "https://www.youtube.com/channel/UCZIaXZFoZHWIi1ReQWZd-tQ"
+  }],
+  "time": "2024-01-18T01:16:05.298Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dznbOgaXmhX0",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dznbOgaXmhX0",
+  "time": "2024-01-18T01:15:14.193Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dQeV3HJobwig",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dQeV3HJobwig",
+  "time": "2024-01-18T01:14:42.785Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d9KBl_UurkEc",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d9KBl_UurkEc",
+  "time": "2024-01-18T01:13:05.971Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Man attacks judge in Vegas reaction",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dbS1wQTXtXWY",
+  "subtitles": [{
+    "name": "Josh Johnson",
+    "url": "https://www.youtube.com/channel/UCLuYADJ6hESLHX87JnsGbjA"
+  }],
+  "time": "2024-01-18T01:11:13.992Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Schlatt Makes The FUNNIEST Joke Ever",
+  "titleUrl": "https://www.youtube.com/watch?v\u003djyMK3YhLjTU",
+  "subtitles": [{
+    "name": "Sleep Deprived",
+    "url": "https://www.youtube.com/channel/UC5qqBFOKTNAzIyE4g3SvuwQ"
+  }],
+  "time": "2024-01-18T01:11:11.674Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Oh Hamilton…. 😬 that’s not- IN A SENSE THAT!!! #shorts #feralton",
+  "titleUrl": "https://www.youtube.com/watch?v\u003deiXpphfgcW4",
+  "subtitles": [{
+    "name": "Athena P",
+    "url": "https://www.youtube.com/channel/UC7gbV8Ib4vh0rbsHqXAY6Sg"
+  }],
+  "time": "2024-01-18T01:10:52.036Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dYXKdzZWOgx8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dYXKdzZWOgx8",
+  "time": "2024-01-18T01:10:35.474Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Ironmouse 360 ladder shot(?)",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dxs2w9hiC4qI",
+  "subtitles": [{
+    "name": "VShojo",
+    "url": "https://www.youtube.com/channel/UC1pn1v7PbOpIJrXnawBA3dQ"
+  }],
+  "time": "2024-01-18T01:10:21.771Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Scientist chatter names a virus after Jerma985",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d8B9jcM8vnws",
+  "subtitles": [{
+    "name": "Jeremy985 clips ",
+    "url": "https://www.youtube.com/channel/UCGY0kbGRCdH96QDLpFlD1Ng"
+  }],
+  "time": "2024-01-18T01:10:12.259Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dY3Tf6rjjS1Y",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dY3Tf6rjjS1Y",
+  "time": "2024-01-17T19:35:44.695Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d-JpHG8x1VFA",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d-JpHG8x1VFA",
+  "description": "Watched at 1:35 PM",
+  "time": "2024-01-17T19:35:36.811Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Michael Is Getting Married \u0026 Tobias Has Obvious Health Problems - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dclxwxxx9vYw",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-17T19:30:56.368Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dTUx6Pdmp0b8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dTUx6Pdmp0b8",
+  "description": "Watched at 1:30 PM",
+  "time": "2024-01-17T19:30:41.007Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched \"She\u0027s the belle of the ball!\" - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dGjsh4NDRXpo",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-17T19:26:22.413Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dAubpZahmZa8",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dAubpZahmZa8",
+  "description": "Watched at 1:26 PM",
+  "time": "2024-01-17T19:26:15.575Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched W2 Magnify :12 16x9",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d7X1VLiNmHTU",
+  "description": "Watched at 1:25 PM",
+  "time": "2024-01-17T19:25:57.821Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Tobias Becomes Michael\u0027s Assistant - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dzfTqEv2JqCM",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-17T19:20:12.607Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched Michael Invites The Veals To Lucille\u0027s Anniversary Party - Arrested Development",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dZQ8sq_XwlpU",
+  "subtitles": [{
+    "name": "Arrested Development",
+    "url": "https://www.youtube.com/channel/UCsj0UT4lfwG5yC37GtWhXkw"
+  }],
+  "time": "2024-01-17T19:15:18.994Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched 009 461 HeroesMuttville Acq EN UAC 1920x1080 15s FB",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d4sxLHOM2B7E",
+  "description": "Watched at 1:15 PM",
+  "time": "2024-01-17T19:15:04.301Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003du0XRQbn4tP0",
+  "titleUrl": "https://www.youtube.com/watch?v\u003du0XRQbn4tP0",
+  "time": "2024-01-17T18:41:17.550Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003d1DIhG0VEVtY",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d1DIhG0VEVtY",
+  "description": "Watched at 12:41 PM",
+  "time": "2024-01-17T18:41:11.147Z",
+  "products": ["YouTube"],
+  "details": [{
+    "name": "From Google Ads"
+  }],
+  "activityControls": ["Web \u0026 App Activity", "YouTube watch history", "YouTube search history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dBa8ZWma8Z3g",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dBa8ZWma8Z3g",
+  "time": "2024-01-17T17:52:36.211Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+},{
+  "header": "YouTube",
+  "title": "Watched https://www.youtube.com/watch?v\u003dWE1j0r066yY",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dWE1j0r066yY",
+  "time": "2024-01-17T17:48:28.571Z",
+  "products": ["YouTube"],
+  "activityControls": ["YouTube watch history"]
+}]
