@@ -65,7 +65,7 @@ def infoToString(infoList, sortType):
 def IDtoLenInSec(idStr):
     video_id = idStr
     #video_id = 'wu2djWZzmz0'
-    api_key = "AIzaSyD32Kga1HrT_eiR2qc3FcG2lIxJyk6uKs4"
+    api_key = ""
     try:
         searchUrl = "https://www.googleapis.com/youtube/v3/videos?id=" + video_id + "&key=" + api_key + "&part=contentDetails"
         response = urllib.request.urlopen(searchUrl).read()
@@ -137,8 +137,8 @@ def removeAdsAndPosts(entry):
 
 sortMethod, sortMeasure = getUserData()
 
-filename = "watch-history.txt"
-#filename = "test-file.txt"
+#filename = "watch-history.txt"
+filename = "test-file.txt"
 watchRead = open(filename, encoding="utf-8").read()
 watchList = watchRead.split("},{")
 
